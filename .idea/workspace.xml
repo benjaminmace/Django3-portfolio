@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e7c4630-e817-4fbb-aba0-236d34ea5a68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/portfolio/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Websites" beforeDir="false" afterPath="$PROJECT_DIR$/../Websites" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +32,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GithubProjectSettings">
     <option name="CREATE_PULL_REQUEST_DEFAULT_BRANCH" value="master" />
@@ -45,7 +48,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Websites" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="SvnConfiguration">
@@ -73,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591152761376</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2 Jun 20 22:00 commit">
+      <created>1591153264454</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591153264454</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -90,7 +100,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2 Jun 20 21:48 first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Jun 20 21:48 first commit" />
+    <MESSAGE value="2 Jun 20 22:00 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Jun 20 22:00 commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="107" key="CommitChangelistDialog2" timestamp="1591152761392">
