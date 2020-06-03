@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e7c4630-e817-4fbb-aba0-236d34ea5a68" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/portfolio/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/personal_portfolio/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/personal_portfolio/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/personal_portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/personal_portfolio/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/portfolio/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Websites" beforeDir="false" afterPath="$PROJECT_DIR$/../Websites" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +102,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="2 Jun 20 21:48 first commit" />
     <MESSAGE value="2 Jun 20 22:00 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Jun 20 22:00 commit" />
+    <MESSAGE value="2 Jun 20 22:19 made model in portfolio app" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Jun 20 22:19 made model in portfolio app" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="107" key="CommitChangelistDialog2" timestamp="1591152761392">
