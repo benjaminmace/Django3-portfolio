@@ -20,18 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e7c4630-e817-4fbb-aba0-236d34ea5a68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/migrations/0001_initial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/migrations/0002_auto_20200603_1546.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/templates/blog/all_blogs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/templates/portfolio/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/templates/blog/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/static/portfolio/IMG_4708.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/static/portfolio/house_plans.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/templates/blog/all_blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/templates/blog/all_blogs.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/db.sqlite3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio_project/personal_portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/personal_portfolio/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/portfolio/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/portfolio/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/portfolio/templates/portfolio/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/templates/portfolio/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,10 +64,13 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Websites" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/personal_portfolio_project/portfolio/static/portfolio" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\maceb\Desktop\Code\PycharmProjects\Portfolio\personal_portfolio_project\portfolio\static\portfolio" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\maceb\Desktop\Code\PycharmProjects\Portfolio\personal_portfolio_project\portfolio\templates\portfolio" />
     </key>
@@ -111,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591211945633</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="3 Jun 20 16:22 blog model, html, and view added and adjusted">
+      <created>1591219367094</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1591219367094</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,7 +141,8 @@
     <MESSAGE value="2 Jun 20 22:00 commit" />
     <MESSAGE value="2 Jun 20 22:19 made model in portfolio app" />
     <MESSAGE value="3 Jun 20 14:18 media addition" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 Jun 20 14:18 media addition" />
+    <MESSAGE value="3 Jun 20 16:22 blog model, html, and view added and adjusted" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 Jun 20 16:22 blog model, html, and view added and adjusted" />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="107" key="CommitChangelistDialog2" timestamp="1591152761392">
