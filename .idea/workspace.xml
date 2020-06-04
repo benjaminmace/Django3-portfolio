@@ -20,17 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e7c4630-e817-4fbb-aba0-236d34ea5a68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/templates/blog/detail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/static/portfolio/IMG_4708.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/static/portfolio/house_plans.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/templates/portfolio/base.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/templates/blog/all_blogs.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/templates/blog/all_blogs.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/personal_portfolio/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/personal_portfolio/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/portfolio/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/personal_portfolio_project/blog/templates/blog/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/blog/templates/blog/detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/personal_portfolio_project/portfolio/templates/portfolio/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/personal_portfolio_project/portfolio/templates/portfolio/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +114,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591219367094</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="3 Jun 20 21:04 updated urls, blogs, admin title render, etc.">
+      <created>1591236301185</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1591236301185</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +142,8 @@
     <MESSAGE value="2 Jun 20 22:19 made model in portfolio app" />
     <MESSAGE value="3 Jun 20 14:18 media addition" />
     <MESSAGE value="3 Jun 20 16:22 blog model, html, and view added and adjusted" />
-    <option name="LAST_COMMIT_MESSAGE" value="3 Jun 20 16:22 blog model, html, and view added and adjusted" />
+    <MESSAGE value="3 Jun 20 21:04 updated urls, blogs, admin title render, etc." />
+    <option name="LAST_COMMIT_MESSAGE" value="3 Jun 20 21:04 updated urls, blogs, admin title render, etc." />
   </component>
   <component name="WindowStateProjectService">
     <state x="614" y="107" key="CommitChangelistDialog2" timestamp="1591152761392">
